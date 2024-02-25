@@ -1,0 +1,2 @@
+# FlipTheCoin
+Django Project
